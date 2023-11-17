@@ -1,0 +1,122 @@
+{
+  "files": {
+    "Entity.java": [
+      {
+        "id": "715469d2-ea28-4fdb-b7b6-1e892b0911ca",
+        "line": 39,
+        "version": 757,
+        "index": 649
+      }
+    ],
+    "Fire.java": [
+      {
+        "id": "0ad03609-656e-4791-b647-432bc2d8953d",
+        "line": 33,
+        "version": 529,
+        "index": 823
+      }
+    ],
+    "Main.java": [
+      {
+        "id": "6e59231e-1dab-457c-96ab-dfb4cbf6816c",
+        "line": 6,
+        "version": 15273,
+        "index": 153
+      },
+      {
+        "id": "11dc3f94-8405-48bf-b643-5a56c40ecdce",
+        "line": 10,
+        "version": 15273,
+        "index": 242
+      },
+      {
+        "id": "0d858001-341c-4b6e-ad47-6b03967de87b",
+        "line": 12,
+        "version": 15273,
+        "index": 290
+      },
+      {
+        "id": "f674ccaa-a771-4752-893f-0c6bbd797aac",
+        "line": 21,
+        "version": 15273,
+        "index": 543
+      }
+    ],
+    "Map.java": [
+      {
+        "id": "234c8ea4-be88-46d2-88ad-01e290f8eb9a",
+        "line": 20,
+        "version": 3738,
+        "index": 542
+      },
+      {
+        "id": "1821decc-9d73-417b-92b2-2150bfbe62a5",
+        "line": 96,
+        "version": 3738,
+        "index": 2760
+      }
+    ],
+    "Pokemon.java": [
+      {
+        "id": "81890f4e-ca15-43a1-b2ab-e087e4c5c13d",
+        "line": 150,
+        "version": 3497,
+        "index": 4213
+      }
+    ],
+    "PokemonGenerator.java": [
+      {
+        "id": "fcc68764-be8a-4f9b-b289-3c5531f208cd",
+        "line": 30,
+        "version": 2991,
+        "index": 929
+      },
+      {
+        "id": "72036a51-61b7-435d-947b-c803ee8a149b",
+        "line": 34,
+        "version": 2991,
+        "index": 1024
+      },
+      {
+        "id": "85623747-28d5-4d4e-b70c-e8bf6eefb3b6",
+        "line": 52,
+        "version": 2991,
+        "index": 1561
+      }
+    ],
+    "Squiral.java": [
+      {
+        "id": "442e79df-8258-45ea-95c5-dd2e6ae0fc4c",
+        "line": 5,
+        "version": 292,
+        "index": 139
+      }
+    ],
+    "Trainer.java": [
+      {
+        "id": "1ca46473-be80-494b-890c-9809cb67b3a0",
+        "line": 45,
+        "version": 7411,
+        "index": 1002
+      },
+      {
+        "id": "b18d6ee5-6029-48f3-a213-b56f53bebbe7",
+        "line": 107,
+        "version": 7411,
+        "index": 2244
+      },
+      {
+        "id": "788aa445-27af-4aa6-86b0-df48b56d397e",
+        "line": 228,
+        "version": 7411,
+        "index": 5372
+      },
+      {
+        "id": "d61d7b1f-cb81-4832-af9a-729509b0f442",
+        "line": 232,
+        "version": 7411,
+        "index": 5506
+      }
+    ]
+  }
+}
